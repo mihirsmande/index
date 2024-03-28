@@ -1,0 +1,135 @@
+<html>
+<head>
+<body>
+
+
+
+<!-- saved from url=(0047)file:///C:/Users/DELL/Documents/restaurant.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+</head>
+<b><hr><center><img src="C:\Users\VAISHNAVI\Desktop/logo.jpg" width="300" height="150"><b>
+
+
+<img src="C:\Users\VAISHNAVI\Desktop/001.jpg" width="150" height="150" align="right">
+
+<img src="C:\Users\VAISHNAVI\Desktop/002.jpg" width="150" height="150" align="left"><center>
+
+<center><h2><font color="black">!!<u>Welcome To Shri Ram Veg Restaurant</u>!!</font></h2></center><font color="black">
+
+
+
+
+<h5><a href="file:///C:/Users/VAISHNAVI/Desktop/contact.html">contact us.=98989898989</a><hr>
+
+
+
+
+
+<table="height=100" "width="100&quot;"><br><br><br><br><br><br>
+<h2> <a href="file:///C:/Users/VAISHNAVI/Desktop/room.html">Book AC wing for luxurious dinner
+
+
+
+
+
+
+
+
+<p><a href="file:///C:/Users/VAISHNAVI/Desktop/res02.html">
+
+
+
+
+
+
+
+<img src="C:\Users\VAISHNAVI\Desktop/maharashtra.jpg" width="500" height="200"><br></a></p>
+<p><h2>Maharashtrian Thali</p><br><br><br>
+
+
+
+
+
+
+<a href="file:///C:/Users/VAISHNAVI/Desktop/res03.html">
+
+<img src="C:\Users\VAISHNAVI\Desktop/rajashtani.jpg" width="500" height="200"><br></a>
+<p>Rajashtani Dishes</p><br><br><br>
+
+
+
+
+
+
+
+
+
+<a href="file:///C:/Users/VAISHNAVI/Desktop/res05.html">
+
+
+
+<img src="C:\Users\VAISHNAVI\Desktop/Indian.jpg" width="500" height="200"><br></a>
+<p>Indian Street Food </p><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="file:///C:/Users/VAISHNAVI/Desktop/res04.html">
+
+
+
+
+
+
+
+
+<img src="C:\Users\VAISHNAVI\Desktop/south.jpg" width="500" height="200"><br></a>
+<p>South lndian Dishes</p><br><br><br><br>
+
+
+
+
+
+
+
+
+</br<br></table="height=100"></h6></font></center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p><a href="file:///C:/Users/VAISHNAVI/Desktop/res07.html">
+
+
+
+
+
+
+
+<img src="C:\Users\VAISHNAVI\Desktop/punjab.jpg" width="500" height="200"><br></a></p>
+<p><h2>Panjabi Thali</p><br><br><br>
+
+</body>
